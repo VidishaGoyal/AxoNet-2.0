@@ -1,3 +1,5 @@
+RandomForestontry2_state10_2weight1_300_20.joblib filter=lfs diff=lfs merge=lfs -text
+RandomForestontry2_state10_2weight0_300_20.joblib filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
 *.pyc filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
